@@ -4,7 +4,7 @@ Para jogar faça download do repositório e do programa Processing, da [fundaç�
 
 ## Normal
 
-Esta foi a primeira versão desenvolvida, trata-se apenas de duas cobrinhas controladas pelas setas, e pelo WASD. Ganha o jogador que bater a cabeça primeiro perde, o outro ganha.
+Esta foi a primeira versão desenvolvida, trata-se apenas de duas cobrinhas controladas pelas setas, e pelo WASD. O jogador que bater a cabeça primeiro perde, o outro ganha.
 
 Se os dois batem ao mesmo tempo (em uma parede ou um no outro) os dois perdem e não são atribuídos pontos.
 
